@@ -197,7 +197,7 @@ class _OnBoardingWidgetState extends State<OnBoardingWidget> {
                                       Icons.add,
                                       color: FlutterFlowTheme.of(context)
                                           .primaryText,
-                                      size: 18.0,
+                                      size: 19.0,
                                     ),
                                     onPressed: () {
                                       print('IconButton pressed ...');
